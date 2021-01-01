@@ -25,13 +25,14 @@ Operation failed due to key already available
 Create operation successful 
 Operation failed due to key length exceeded the limit(32chars)
 
-   READ
+        READ
 
 {"firstName":"Moulika","lastName":"Sammidi","address":"Vizag","age":"21"}
 {"firstName":"Moulika","lastName":"Sammidi","address":"Vizag"}
 Operation failed due to key not available 
 Operation failed due to key length exceeded the limit(32chars)
 
-   DELETE
+        DELETE
+
 Operation failed due to key not available 
 Record deletion successful 
